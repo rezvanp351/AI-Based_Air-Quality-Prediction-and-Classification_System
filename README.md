@@ -62,3 +62,10 @@ Alternatively, you can download the project as a ZIP file and install the depend
 #### 5. Install dependencies:  
    `pip install -r requirements.txt`
 
+### Project implementation stage
+After running your project, you need to create an account for yourself from the Index page as an organization or regular user:
+1. Individual user
+2. User as an organization
+
+After this you will be redirected to the page of one of these users you have selected. After filling out the detailed form, you must log in to your account.On the relevant page that is displayed to you, the information about the pollutants and the table, as well as the graph and the pollutant, are set to 1-3-6-12-24-48-72 hours.
+
